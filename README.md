@@ -2,23 +2,24 @@
 Cisco - Cisco Data Center and Cloud Made Easy
 
 
-** ACI The network made simple **
 
-** Initial presentations (target marketing) **
+**ACI The network made simple**
 
-** Module 0 - Episode 1: ACI: The network made simple **
+**Initial presentations (target marketing)**
+
+**Module 0 - Episode 1: ACI: The network made simple**
 This is the first chapter of these new series of videos we will be posting to teach you ACI from the ground up! 
 Let's start by simply understanding how ACI is a simpler, faster and consistently secure network. Any scale, Anywhere and on Any Cloud you can have a better Data Center Network with ACI!
 This video briefly explains what ACI is and how it transforms the way we do networking in a Secure, Multi-Hypervisor and Multi-cloud world, providing you with faster time to provision networking with integrated monitoring + troubleshooting tools.
 https://www.youtube.com/watch?v=NFaP6XX1-C8&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mwl3b&index=1
 
-** Module 0 - Episode 2: Cisco ACI vs Traditional Networks **
+**Module 0 - Episode 2: Cisco ACI vs Traditional Networks**
 Tired of managing your network the old-way? In this episode of "ACI: The Network Made Simple", we show you a few examples of how ACI simplifies and transforms the way we do networking!
 https://www.youtube.com/watch?v=pVPbG_f2_w4&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mwl3b&index=2
 
 
 
-** Initial Task (target technical) **
+**Initial Task (target technical)**
 
 Module 1 - Episode 1: Introduction & ACI Initial Tasks - Cabling the Fabric
 In this chapter, we will cover the Series Syllabus and you will learn about the different elements in the ACI Fabric as well as how to cable them all together
@@ -51,7 +52,7 @@ https://www.youtube.com/watch?v=fK3TKv279-s&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mw
 
 
 
-** Configuring Physical Connectivity (target technical) **
+**Configuring Physical Connectivity (target technical)**
 
 Module 2 - Episode 1: Understanding the Physical Network Model
 In this module, we will cover the questions that we will commonly make throughout this Module to connect anything from Bare-Metal Servers to Virtual Servers and FibreChannel Connections. We will be providing with actual working configuration examples for each use-case which will always start with the golden questions covered in this chapter
@@ -79,7 +80,7 @@ https://www.youtube.com/watch?v=7k4Jxdm8DBk&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mw
 
 
 
-** Configuring Logical networking (L2/L3) (target technical) **
+**Configuring Logical networking (L2/L3) (target technical)**
 
 Module 3 - Episode 1 Part 1: Understanding the logical network model - Learning to Switch with ACI
 In this chapter (which has 2 parts) you will learn the logical networking model and what changes from traditional networking. In the first part of it, we will learn VRFs, Application Profiles and EPGs with Bridge-Domains as well as how to use them to allow communication between Virtual and Physical End Points within the same EPG. In the second part, you will learn more about EPGs and contracts and we will provide an overview on L3 Out EPGs. We will learn how to communicate anything on ACI through 5 easy steps
@@ -117,7 +118,7 @@ https://www.youtube.com/watch?v=RWPekGMpxOs&t=2s
 
 
 
-** Configuring Logical networking in the Cloud (target technical) **
+**Configuring Logical networking in the Cloud (target technical)**
 
 Module 3.1 - Episode 1 (Part 1/2): Cloud 101 for Network Engineers
 Before we get started with Cloud ACI, its benefits and configuration, we'll cover in the first part of this episode some of the main concepts in the cloud. We'll start with IaaS, PaaS and SaaS terminology for each of the major cloud providers (AWS, Azure and Google) and cover some key concepts like Regions and Availability Zones
@@ -151,18 +152,18 @@ After this video you should be able to provide secure connectivity between diffe
 https://www.youtube.com/watch?v=uBsqMPqs2EU
 
 
-** Configuring L4/L7 Services (target technical) **
+**Configuring L4/L7 Services (target technical)**
 
 Module 4 -
 
 
-** Extending the Fabric: Mpod, Msite, vPod, Rleaf (target technical) **
+**Extending the Fabric: Mpod, Msite, vPod, Rleaf (target technical)**
 
 Module 5 -
 
 
 
-** Advanced Topics and other integrations (target technical) **
+**Advanced Topics and other integrations (target technical)**
 
 Module 6 - Nexus Dashboard
 
