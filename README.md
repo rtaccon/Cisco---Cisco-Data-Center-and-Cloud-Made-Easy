@@ -3,12 +3,16 @@ Cisco - Cisco Data Center and Cloud Made Easy
 
 ** Initial presentations
 Module 0 - Episode 1: ACI The network made simple
+
 Module 0 - Episode 2: Cisco ACI vs Traditional Networks
 
 ** Initial Task
 Module 1 - Episode 1: Introduction & ACI Initial Tasks - Cabling the Fabric
+
 Module 1 - Episode 2: Initial APIC Installation
+
 Module 1 - Episode 3: ACI Switch Discovery
+
 Module 1 - Episode 4: Basic Services (NTP & Out-of-Band Management)
 Module 1 - Episode 5: Quickly Onboarding ACI using the Wizard
 Module 1 - Episode 6: Firmware Upgrades and Maintenance Tasks
