@@ -4,12 +4,14 @@ Cisco - Cisco Data Center and Cloud Made Easy
 *** ACI The network made simple
 
 ** Initial presentations
+
 Module 0 - Episode 1: ACI The network made simple
 
 Module 0 - Episode 2: Cisco ACI vs Traditional Networks
 
 
 ** Initial Task
+
 Module 1 - Episode 1: Introduction & ACI Initial Tasks - Cabling the Fabric
 
 Module 1 - Episode 2: Initial APIC Installation
@@ -26,6 +28,7 @@ Module 1 - Episode 7: Best Practices - ACI Initial Setup
 
 
 ** Configuring Physical Connectivity
+
 Module 2 - Episode 1: Understanding the Physical Network Model
 
 Module 2 - Episode 2: Connecting Single NIC servers
@@ -40,6 +43,7 @@ Module 2 - Episode 6: Best Practices - ACI Access-Policies
 
 
 ** Configuring Logical networking (L2/L3)
+
 Module 3 - Episode 1 Part 1: Understanding the logical network model - Learning to Switch with ACI
 
 Module 3 - Episode 1 Part 2: Understanding the logical network model - Learning Contracts & Routing
@@ -56,6 +60,7 @@ Module 3 - Episode 5: Best Practices (Snapshots, vzAny, Preferred Groups, ESGs, 
 
 
 ** Configuring Logical networking in the Cloud
+
 Module 3.1 - Episode 1 (Part 1/2): Cloud 101 for Network Engineers
 
 Module 3.1 - Episode 1 (Part 2/2): Cloud 101 for Network Engineers
@@ -72,14 +77,17 @@ Module 3.1 - Episode 4: From 0 to Ping with Cloud ACI on AWS (Part 2) Logical Ne
 
 
 ** Configuring L4/L7 Services
+
 Module 4 -
 
 
 ** Extending the Fabric: Mpod, Msite, vPod, Rleaf
+
 Module 5 -
 
 
 ** Advanced Topics and other integrations
+
 Module 6 - Nexus Dashboard
 
 Module 6 - SDA, SD-WAN and ACI
