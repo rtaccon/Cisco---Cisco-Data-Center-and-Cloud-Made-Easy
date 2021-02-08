@@ -1,9 +1,7 @@
 # Cisco---Cisco-Data-Center-and-Cloud-Made-Easy
 Cisco - Cisco Data Center and Cloud Made Easy
 
-
 *** ACI The network made simple
-https://www.youtube.com/watch?v=NFaP6XX1-C8&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mwl3b
 
 ** Initial presentations
 Module 0 - Episode 1: ACI The network made simple
@@ -74,11 +72,11 @@ Module 3.1 - Episode 4: From 0 to Ping with Cloud ACI on AWS (Part 2) Logical Ne
 
 
 ** Configuring L4/L7 Services
-Module 4:
+Module 4 -
 
 
 ** Extending the Fabric: Mpod, Msite, vPod, Rleaf
-Module 5:
+Module 5 -
 
 
 ** Advanced Topics and other integrations
