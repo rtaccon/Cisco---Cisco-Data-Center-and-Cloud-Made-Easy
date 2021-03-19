@@ -152,6 +152,7 @@ https://www.youtube.com/watch?v=uBsqMPqs2EU
 **\*Module 3.1 - Episode 5: From 0 to Ping with Cloud ACI on Azure (Part 1) Cloud APIC Deployment**
 In this first part of the chapter, Roxana Diaz (Technical Solutions Architect in the Cisco Global Cloud and Infrastructure Team) covers with a few simple steps how to deploy and perform the initial setup of Cloud APIC on Azure. We will cover the pre-requisites, how ACI implements and automates VNet Peering and Azure Load Balancer with CSR-1000v + VNGs and we will see what happens on the Azure Portal behind the scenes.
 After this video you should be able to have an operational cloud APIC on Azure ready to be used, which will serve us to connect our instances using our logical network configuration model in part 2 of this chapter
+https://www.youtube.com/watch?v=aLU1lvgMxjU&t=9s
 
 
 **\*Configuring L4/L7 Services (target technical)**
