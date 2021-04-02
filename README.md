@@ -1,6 +1,8 @@
 # Cisco---Cisco-Data-Center-and-Cloud-Made-Easy
 Cisco - Cisco Data Center and Cloud Made Easy
 
+
+
 **\*ACI The network made simple**
 
 **\*Initial presentations (target marketing)**
@@ -157,7 +159,9 @@ https://www.youtube.com/watch?v=aLU1lvgMxjU&t=9s
 
 **\*Configuring L4/L7 Services (target technical)**
 
-**\*Module 4 -**
+**\*Module 4 - Episode 1: L4-L7 Services Integration Overview (Part 1) - Introduction to Service Graphs**
+In this video we will cover how ACI integrates L4-L7 services using Service Graphs, the main implementation modes (unmanaged, service policy, service manager and API-based) and define our baseline scenario before we start the actual configuration
+https://www.youtube.com/watch?v=FuVB1j6JINM
 
 
 **\*Extending the Fabric: Mpod, Msite, vPod, Rleaf (target technical)**
@@ -181,3 +185,81 @@ https://www.youtube.com/watch?v=aLU1lvgMxjU&t=9s
 **\*Module 6 - VMware NSX-T and Cisco ACI Integration**
 In this chapter we will cover how ACI integration to VMware NSX-T brings value to both network and vm-admins, how it works, what happens automatically behind the scenes and how to configure it
 https://www.youtube.com/watch?v=6brL3taS6V8&t=14s
+
+
+
+**\*Cisco Data Center Anywhere (target technical)**
+
+**\*Part 1: Introduction to the Series and the need to evolve**
+Through this demo-based series (originally delivered at Cisco Live US 2020) we will cover the business outcomes the Cisco Data Center Anywhere solution provides: Faster Time to Market and Minimized Downtime.  Through multiple chapters, we will show and demo multiple products and solutions in order to deliver faster, simpler and always-on operations from applications to infrastructure anywhere.
+https://www.youtube.com/watch?v=PD_1C0CtNk0&feature=em-lsp
+
+**\*Part 2: Faster Application Delivery with Cloud Center**
+In this chapter of the series we will cover Agility through Automation at the Application-Delivery level by leveraging Cloud Center to model applications and services once and deploy them on any cloud and/or on top of any hardware, reducing services and customization costs and accelerating time to market
+https://www.youtube.com/watch?v=w39vsVxrBqM
+
+**\*Part 3: Faster MultiCloud Network Deployments with ACI Anywhere**
+In this chapter we will cover a demo-based overview on how ACI provides agility through built-in automation and a single pane of glass for all things networking in the Data Center through single site, multi-site and multi-cloud technologies. By enabling a VXLAN network in just a few seconds which can extend across anywhere using Multi-Site Orchestrator and Cloud ACI amongst other ACI flavors, you can now run and provide networking services anywhere your business takes you
+https://www.youtube.com/watch?v=9A-smnOqdGE
+
+**\*Part 4: Faster Infra Deployment with Intersight - Compute & Storage**
+In this chapter we will cover how Cisco Intersight delivers agile compute, converged and hyperconverged storage through an automated approach from the Cloud. By providing a SaaS or on-prem model, now you have a single pane-of-glass to monitor, manage and configure your Cisco and even non-Cisco environment in terms of compute and storage
+https://www.youtube.com/watch?v=4X9ahZ8irPc
+
+**\*Part 5: Minimize Applications Downtime with AppDynamics**
+In this chapter we will cover how AppDynamics provides central monitoring for your application performance from the user (either though a web or mobile-based app) to the database, displaying useful information for Java, Lambda, .Net and many other types of apps no matter where they run.
+We will also show how analytics can transform AppD insights into business-relevant information through customized Dashboards and finally, we will have a look at AppD + ACI integration
+https://www.youtube.com/watch?v=ns1VMkwL0Ak
+
+**\*Part 6: Minimize infrastructure downtime with ACI and HyperFlex + Veeam**
+In this chapter we will show how we can enable Immediate Reactive Recovery capabilities at the network and hyperconverged level through ACI Snapshots and Rollbacks plus HyperFlex Snapshots and @VeeamInstant Recovery running on top of an UCS S Server. After completely deleting the network configuration or even a VM with its disk, we will show how it just takes a few seconds to become fully operational with no troubleshooting involved
+https://www.youtube.com/watch?v=1zSk_Q49mGg
+
+**\*Part 7: Business Continuity & Proactive Network Ops - Insights +Assurance**
+In this chapter we will cover how ACI MultiSite Orchestrator can help centralizing ACI Operations and Policy while providing DR capabilities for VM Mobility and L2 extension. Then we will also take a glimpse into F5 integration to ACI and move on to the Network Assurance and Insights capabilities in order to transform network operations from reactive to proactive powered by AI/ML predictive analytics
+https://www.youtube.com/watch?v=GOBx1il53T8
+
+**\*Part 8: Cost Optimization, Cloud Migration & Proactive Ops - Intersight**
+In this chapter we will cover how Intersight and Workload Optimizer can be a great asset not only to right-size your infrastructure, but to continuously optimize it whether on the Cloud or on-premises in a vendor-agnostic way. We will also cover how to assess your Cloud migrations and integrate to AppDynamics to provide an easy-fix to potential issues
+https://www.youtube.com/watch?v=NPbcr-zjvxc
+
+**\*Part 9: Minimize Downtime - Security Anywhere with SecureX and Tetration**
+In this first chapter dedicated to Secure Multicloud Data Centers, I'll share a quick SecureX overview, which provides you with a consolidated cockpit for all your Security needs and then, we will drill down into Tetration in order to show an initial overview of it, since will continue covering Tetration in Part 10 as well as part of our Layered Defense approach.
+https://www.youtube.com/watch?v=nvssSgycfxs
+
+**\*Part 10: Layered & Consistent Policy, Threat Protection and Encryption**
+In this chapter, I will continue covering the Layered Defense approach at the workload, network and depth level with Tetration, ACI and L4-L7 devices respectively. We will also cover single-click encryption with ACI and Multi-Site Orchestrator and Proactive Advisory with Intersight. Last, we will overview AlgoSec as a great tool to normalize policy from Tetration across multiple devices, clouds and vendors and we'll finish with Cloud Center automating Tetration and AppDynamics sensor deployment
+https://www.youtube.com/watch?v=uFRZ4_QCQXg&t=289s
+
+**\*Part 11: Consistent Security With Campus and SD-WAN integrations to ACI**
+In this video, we will cover an overview of how Intent-Based Networking works by showing an example of DNA Center, SD-WAN and ACI integration to provide consistent policy from Campus to the Data Center, then in the next chapter, we'll cover this same topic with a bit more detail CREDITS on visuals and special thanks to Carl Solder from Cisco
+https://www.youtube.com/watch?v=0Ss1uRpQ7iY
+
+**\*Part 12: ACI and DNA Center + SD-WAN Integration and Overall Summary**
+In the final chapter of this series, we cover the behind-the-scenes from the previous episode, showing with a bit more of detail what happens in each integration to achieve consistent security and policy from Campus (DNA Center) to Data Center (ACI) through SD-WAN and ISE.
+And then, we close the Minimizing Downtime Section by providing a summary to it as well as the overall series conclusions
+CREDITS: Special thanks to Pablo Urcid, Rosario Medrano, Manuel Rivaud and Israel Penaloza from the Cisco Latin America Team for their help building this demo
+https://www.youtube.com/watch?v=vAZsyvZpHtE
+
+
+
+**\*Cloud Ready ! (target technical)**
+
+**\*Seamless Cloud Migration & Disaster Recovery as a Service (DRaaS) with AWS CloudEndure and Cisco ACI**
+In this video, German Gonzalez from AWS and Carlos Campos Torres from Cisco show you how to perform DRaaS and Cloud Migration in a cost-effective and cloud-native way for both DNS-based apps and for legacy apps which IP addresses need to be preserved. 
+We will show the topology, the configuration on both CloudEndure and MSO and how we can either use AWS Route53 to automatically failover DNS-based apps or we even preserve your same IP addressing once in the cloud and totally seamless to the users. 
+This translates into central management for all network types and without "stretching" your subnet from on-prem, which brings multiple drawbacks such as traffic tromboning, sub-optimal routing and even the need for proprietary solutions which eliminate your ability to use cloud-native services
+https://www.youtube.com/watch?v=3vXIkZvgeg0
+
+**\*From 0 to Ping with Cloud ACI on Azure (Part 1) Cloud APIC Deployment**
+In this first part of the chapter, Roxana Diaz (Technical Solutions Architect in the Cisco Global Cloud and Infrastructure Team) covers with a few simple steps how to deploy and perform the initial setup of Cloud APIC on Azure. We will cover the pre-requisites, how ACI implements and automates VNet Peering and Azure Load Balancer with CSR-1000v + VNGs and we will see what happens on the Azure Portal behind the scenes.
+After this video you should be able to have an operational cloud APIC on Azure ready to be used, which will serve us to connect our instances using our logical network configuration model in part 2 of this chapter
+https://www.youtube.com/watch?v=atpeVecl5oI
+
+
+
+**\*Cisco ACI to segment routing (SR) and multiprotocol label switching (MPLS) handoff (target technical)**
+
+**\*Service providers can inter-connect their Cisco ACI-based telco cloud to 5G transport backbone network with end-to-end segmentation**
+https://www.youtube.com/watch?v=j3VrgXMLzfc&feature=youtu.be
+Learn more at https://blogs.cisco.com/datacenter/cisco-application-centric-infrastructure-cisco-aci-5-0-for-the-changing-world
