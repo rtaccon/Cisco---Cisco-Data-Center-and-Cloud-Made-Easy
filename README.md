@@ -2,7 +2,6 @@
 Cisco - Cisco Data Center and Cloud Made Easy
 
 
-
 **\*ACI The network made simple**
 
 **\*Initial presentations (target marketing)**
@@ -261,5 +260,5 @@ https://www.youtube.com/watch?v=atpeVecl5oI
 **\*Cisco ACI to segment routing (SR) and multiprotocol label switching (MPLS) handoff (target technical)**
 
 **\*Service providers can inter-connect their Cisco ACI-based telco cloud to 5G transport backbone network with end-to-end segmentation**
-https://www.youtube.com/watch?v=j3VrgXMLzfc&feature=youtu.be
+https://www.youtube.com/watch?v=j3VrgXMLzfc
 Learn more at https://blogs.cisco.com/datacenter/cisco-application-centric-infrastructure-cisco-aci-5-0-for-the-changing-world
