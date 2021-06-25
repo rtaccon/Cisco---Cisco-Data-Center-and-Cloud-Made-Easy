@@ -1,6 +1,6 @@
 **\*ACI The network made simple**
 
-<font size="6">**\*Initial presentations (target marketing)**</font>
+<font size="30">**\*Initial presentations (target marketing)**</font>
 
 **\*Module 0 - Episode 1: ACI: The network made simple**
 This is the first chapter of these new series of videos we will be posting to teach you ACI from the ground up! 
