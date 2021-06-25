@@ -1,6 +1,8 @@
 **\*ACI The network made simple**
 
-<font size="30">**\*Initial presentations (target marketing)**</font>
+<p style="font-family: times, serif; font-size:11pt; font-style:italic">
+**\*Initial presentations (target marketing)**
+</p>
 
 **\*Module 0 - Episode 1: ACI: The network made simple**
 This is the first chapter of these new series of videos we will be posting to teach you ACI from the ground up! 
@@ -11,4 +13,3 @@ https://www.youtube.com/watch?v=NFaP6XX1-C8&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mw
 **\*Module 0 - Episode 2: Cisco ACI vs Traditional Networks**
 Tired of managing your network the old-way? In this episode of "ACI: The Network Made Simple", we show you a few examples of how ACI simplifies and transforms the way we do networking!
 https://www.youtube.com/watch?v=pVPbG_f2_w4&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mwl3b&index=2
-
