@@ -1,7 +1,3 @@
-# Cisco---Cisco-Data-Center-and-Cloud-Made-Easy
-Cisco - Cisco Data Center and Cloud Made Easy
-
-
 **\*ACI The network made simple**
 
 **\*Initial presentations (target marketing)**
@@ -155,6 +151,12 @@ In this first part of the chapter, Roxana Diaz (Technical Solutions Architect in
 After this video you should be able to have an operational cloud APIC on Azure ready to be used, which will serve us to connect our instances using our logical network configuration model in part 2 of this chapter
 https://www.youtube.com/watch?v=aLU1lvgMxjU&t=9s
 
+**\*Module 3.1 - Episode 5: From 0 to Ping with Cloud ACI on Azure (Part 2) Cloud APIC Deployment**
+In the second and final part of this chapter, Roxana Diaz (Technical Solutions Architect in the Cisco Global Cloud and Infrastructure Team) configures Tenants, EPGs and Contracts to demonstrate how connectivity is achieved on Azure following the same ACI operational model and automating behind the scenes the necessary Azure cloud-native networking constructs.
+After this video you should be able to understand how to configure the network in Azure leveraging your ACI knowledge
+https://www.youtube.com/watch?v=UMDmsoBKWMU
+
+
 
 **\*Configuring L4/L7 Services (target technical)**
 
@@ -162,10 +164,28 @@ https://www.youtube.com/watch?v=aLU1lvgMxjU&t=9s
 In this video we will cover how ACI integrates L4-L7 services using Service Graphs, the main implementation modes (unmanaged, service policy, service manager and API-based) and define our baseline scenario before we start the actual configuration
 https://www.youtube.com/watch?v=FuVB1j6JINM
 
+**\*Module 4 - Episode 1: L4-L7 Integration Overview (Part 2) - Service Graph Configuration (Unmanaged)**
+In this video we will cover how to insert a Firewall between two EPGs (using the baseline environment described in part 1) using unmanaged Service Graphs and once we are done, I will show you how to verify your configuration and understand what happens behind the scenes through the automated creation of shadow EPGs and shadow contracts.
+As usual, we'll cover the step-by-step configuration so that you can successfully perform this on your environment
+https://www.youtube.com/watch?v=Sp5uWD4ipO4
+
+**\*Module 4 - Episode 1: L4-L7 Integration Overview (Part 3) - PBR Configuration, Cloud Overview & More**
+In the final part of this chapter, we will learn how to configure Policy-Based Redirection (PBR) to insert a firewall between 2 EPGs only for SSH traffic while letting ICMP traffic be forwarded directly by the ACI. We will also wrap this chapter up by providing an overview of copy services, app-based service integrations and L4-L7 services in the cloud
+https://www.youtube.com/watch?v=Dxrsj3TrOwg&t=5s
+
+**\*Module 4 - Episode 3: L4-L7 in the Cloud (Part 1) - Inserting ALB Load-Balancers in Cloud ACI on AWS**
+In Part 1 of this chapter, Pablo Urcid (Data Center and Cloud Technical Solutions Architect at Cisco) takes you through the configuration steps to automatically deploy and stitch an AWS ALB between 2 EPGs for scalability and high-availability purposes using Cloud ACI, while showing you on the AWS Console what is automated behind the scenes
+https://www.youtube.com/watch?v=yTJ151Bxhec&t=120s
+
+
 
 **\*Extending the Fabric: Mpod, Msite, vPod, Rleaf (target technical)**
 
-**\*Module 5 -**
+**\*Module 5 - Episode 1: ACI Anywhere Overview Pt. 1 - Single-Site Extension: MultiPod/Remote Leaf/vPod**
+In this module we will cover how to extend your network to multiple locations for use-cases such as VM Mobility, Active-Active Data Centers,  and Cloud/DC Migrations while maintaining a single pane-of-glass using ACI Anywhere and Nexus Dashboard.
+In Part 1 of this chapter we will briefly cover single-site fabric extension options and their use-cases (including Multi-Pod, Remote Leaf, Virtual ACI or vPod) and then in part 2 we will cover Multi-Site using Nexus Dashboard Orchestrator. 
+Further episodes in this module will cover the specific configurations for each one of these options so that you can successfully implement them yourself
+https://www.youtube.com/watch?v=x-JFOeo_nRs&t=15s
 
 
 
@@ -184,6 +204,10 @@ https://www.youtube.com/watch?v=FuVB1j6JINM
 **\*Module 6 - VMware NSX-T and Cisco ACI Integration**
 In this chapter we will cover how ACI integration to VMware NSX-T brings value to both network and vm-admins, how it works, what happens automatically behind the scenes and how to configure it
 https://www.youtube.com/watch?v=6brL3taS6V8&t=14s
+
+**\*Module 6: ACI HTML5 Plugin for VMware VCenter - Installation and Logical Network Configuration**
+In this video Max Alvarado (Technical Solutions Architect at Cisco) shows you how to install the ACI HTML5 Plugin for VCenter which may be useful if you are a VM-Admin and would like to provision networking services yourself leveraging a common network for both Overlay and Underlay through ACI. 
+This allows organizations to unify the network and preserve knowledge domains and tools isolated but working in a collaborative way.
 
 
 
@@ -262,3 +286,9 @@ https://www.youtube.com/watch?v=atpeVecl5oI
 **\*Service providers can inter-connect their Cisco ACI-based telco cloud to 5G transport backbone network with end-to-end segmentation**
 https://www.youtube.com/watch?v=j3VrgXMLzfc
 Learn more at https://blogs.cisco.com/datacenter/cisco-application-centric-infrastructure-cisco-aci-5-0-for-the-changing-world
+
+
+**\*ACI for Service-Providers: End-to-End Network Slicing with ACI and Segment Routing/MPLS**
+In this video, Sonu Khandewal (Cisco Technical Marketing Engineer with the Intent-Based Networking Group) explains how ACI can integrate with Segment Routing and MPLS Transport Networks providing End-to-End network slicing automatically and using a single MP-BGP EVPN session to extend VRF isolation and policy beyond the Data Center.
+In addition, Cisco NSO will be leveraged as the single tool to automate provisioning of both Transport and Data Center ACI networks
+https://www.youtube.com/watch?v=uoyvKRuz7TU&t=6s
