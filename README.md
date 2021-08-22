@@ -73,6 +73,9 @@ https://www.youtube.com/watch?v=nKRaWjvUtHQ&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mw
 In this chapter, we'll cover some best practices to keep your Physical Network or Access-Policies configuration (Switch Profiles, Interface Profiles, Port Selectors and Policy Groups) clean and simple, allowing you to make the most out of ACI's re-usability. We'll compare how wizard provisioned access-policies look like and some differences with the step-by-step approach. Last, we'll show an example of how AEP, VLAN Pool and Domain re-usability may look like in an environment. Special thanks to https://unofficialaciguide.com/category/best-practice/ for their contributions!
 https://www.youtube.com/watch?v=7k4Jxdm8DBk&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mwl3b&index=15
 
+## **\*Module 2 - Episode 7 Pt. 1: Storage Protocols on ACI - Fibre Channel (FC) & FC over Ethernet (FCoE)**
+In this chapter we will cover how to configure FC and FCoE on ACI running NPV mode on the leaf nodes. We will start in part 1 by going through the physical network configuration for FC connectivity and then in part 2 we will cover FCoE southbound to connect a UCS Server with a CNA adapter.
+https://www.youtube.com/watch?v=oNrMZgbV2XY
 
 
 # **\*Configuring Logical networking (L2/L3) (target technical)**
