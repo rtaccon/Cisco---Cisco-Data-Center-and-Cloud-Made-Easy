@@ -77,6 +77,12 @@ https://www.youtube.com/watch?v=7k4Jxdm8DBk&list=PL_RJ3HclrYc5oRUi0_iYeIl9yKN4Mw
 In this chapter we will cover how to configure FC and FCoE on ACI running NPV mode on the leaf nodes. We will start in part 1 by going through the physical network configuration for FC connectivity and then in part 2 we will cover FCoE southbound to connect a UCS Server with a CNA adapter.
 https://www.youtube.com/watch?v=oNrMZgbV2XY
 
+## **\*Module 2 - Episode 7 Pt. 2: Storage Protocols on ACI - Fibre Channel (FC) & FC over Ethernet (FCoE)**
+In the second part of this chapter we now cover the physical network configuration for our FCoE host leveraging an existing vPC configuration to an ESX server which is also integrated via a VMM domain with VCenter. 
+We will take a look at the UCS C220 rack server settings for its CNA and then we'll configure and adjust our VLAN/VSAN Pools, AEPs and Interface/Switch Profiles.
+https://www.youtube.com/watch?v=oA7mmuX64jY
+
+
 
 # **\*Configuring Logical networking (L2/L3) (target technical)**
 
@@ -113,6 +119,10 @@ https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/migration_
 ## **\*Module 3 - Episode 5: Best Practices (Snapshots, vzAny, Preferred Groups, ESGs, Inheritance & more)**
 In the last chapter of this module, we'll cover some best practices to help you along the way. We'll start with Snapshots and Rollbacks to protect your configuration from unwanted changes and complicated troubleshooting, restoring the network in seconds. Then we'll move to how ACI works in terms of deployment and resolution immediacy plus a few ways to optimize TCAM utilization with concepts such as Unenforced VRF, vzAny and Preferred Groups. We will also take a glimpse into Contract Inheritance and Policy Compression as well as the new End-Point Security Groups (ESGs) which became available in ACI 5.0. Last, we will compare static EPG binding versus L2 Out as methods to integrate external L2 connectivity into ACI
 https://www.youtube.com/watch?v=RWPekGMpxOs&t=2s
+
+## **\*Module 3 - Episode 6: Storage Protocols on ACI - Fibre Channel (FC) & FC over Ethernet (FCoE)**
+In this chapter we will finalize our FC and FCoE configuration from Module 2 by creating the corresponding Tenants and EPGs to allow our FCoE UCS Servers establish communication to the Pure Storage FC Array over the same ACI Fabric
+https://www.youtube.com/watch?v=vCInkXdt7so
 
 
 
@@ -180,6 +190,12 @@ https://www.youtube.com/watch?v=Dxrsj3TrOwg&t=5s
 In Part 1 of this chapter, Pablo Urcid (Data Center and Cloud Technical Solutions Architect at Cisco) takes you through the configuration steps to automatically deploy and stitch an AWS ALB between 2 EPGs for scalability and high-availability purposes using Cloud ACI, while showing you on the AWS Console what is automated behind the scenes
 https://www.youtube.com/watch?v=yTJ151Bxhec&t=120s
 
+## **\*Module 4 - Episode 4 Configuring F5 Load Balancers from APIC using Service Center App**
+Module 4 - Episode 4: Configuring F5 Load Balancers from APIC using Service Center App
+In this chapter Max Alvarado (Technical Solutions Architect at Cisco) shows you how to install F5 Service Center App on APIC and how to integrate load balancing into ACI by configuring Virtual Servers, Server Pools, Service Graphs and the IP addresses for your F5 Big IP Load Balancer, all done through the APIC. 
+By leveraging F5 Service Center App on APIC and using Service Graphs, you don't need to install any device packages to have consolidated visibility, automated service-stitching and load balancing configuration from APIC. ACI uses both APIC and F5 RESTful APIs to automate the necessary configuration for both networking and load balancing services while providing visibility for VIPs, Nodes and server pools through a single pane of glass.
+https://www.youtube.com/watch?v=zQCRck38TgE&t=8s
+
 
 
 # **\*Extending the Fabric: Mpod, Msite, vPod, Rleaf (target technical)**
@@ -189,6 +205,12 @@ In this module we will cover how to extend your network to multiple locations fo
 In Part 1 of this chapter we will briefly cover single-site fabric extension options and their use-cases (including Multi-Pod, Remote Leaf, Virtual ACI or vPod) and then in part 2 we will cover Multi-Site using Nexus Dashboard Orchestrator. 
 Further episodes in this module will cover the specific configurations for each one of these options so that you can successfully implement them yourself
 https://www.youtube.com/watch?v=x-JFOeo_nRs&t=15s
+
+## **\*Module 5 - Episode 2 Part 1: ACI Multipod Overview and Inter-Pod Network (IPN) Setup**
+In the first part of this chapter, we'll cover an overview of Multipod and how ACI automates the underlay and overlay to extend your fabric over any routed network whether for Data Center Interconnect purposes or to connect pods across different rooms. 
+We will then learn how to configure the IPN and what to consider when performing a Multipod configuration so that in Part 2, we can simply run the ACI Multipod wizard and test VM Mobility across pods.
+The  IPN configuration I used for the Nexus 9000 IPN Switch can be found here: https://github.com/carlosteclas/Multipod
+https://www.youtube.com/watch?v=WcmQJFFUD20
 
 
 
